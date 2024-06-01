@@ -4,3 +4,4 @@ git-demo
 
 
 Command: git gui&
+	 git gitk&
