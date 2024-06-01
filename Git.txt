@@ -3,4 +3,4 @@ entry
 git-demo
 
 
-git gui&
+Command: git gui&
